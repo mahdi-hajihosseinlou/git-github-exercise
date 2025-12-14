@@ -1,12 +1,1 @@
-<<<<<<< Updated upstream
-first commit from mahdi-hajihosseinlou:develop
-second commit from mahdi-hajihosseinlou:develop
-third commit from mahdi-hajihosseinlou:develop
-forth commit from mahdi-hajihosseinlou:develop
-//
-=======
-first commit from mahdi:feature
-second commit from mahdi:feature
-third commit from mahdi:feature
-forth commit from mahdi:featrue
->>>>>>> Stashed changes
+first one
